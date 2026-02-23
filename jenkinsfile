@@ -1,3 +1,4 @@
+// Jenkinsfile for Retail Project CI/CD Pipeline
 pipeline {
     agent any
     
